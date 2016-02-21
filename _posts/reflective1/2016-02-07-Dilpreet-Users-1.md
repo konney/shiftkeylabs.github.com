@@ -1,9 +1,11 @@
+---
 layout: post
 category : lessons
 tagline: "Users"
 author: Dilpreet Gill
 tags : [introduction, beginner]
 ---
+
 # 2016-02-07-Dilpreet-Users
 ## Shift Key Labs
 ### About this Class

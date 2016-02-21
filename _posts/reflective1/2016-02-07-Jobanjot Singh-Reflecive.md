@@ -1,17 +1,9 @@
-
-
 ---
-
 layout: post
-
 category : Reflective BlogPost
-
 tagline: "First Post"
-
 author: Jobanjot Singh
-
 tags : [Computer Science, Graduate, CSCI 6904]
-
 ---
 
 # Reflective Blog on Special Grad Topics in Computer Science Class :
@@ -41,7 +33,7 @@ If you ask me three things i really like from this class:
 2. People, Definitely people.
 3. Atmoshpere.
 
-The **Atmosphere** of the class is really fun and it promotes learning + efficiency. From the outside, class is 3 hours long but it definitely doesnt feel as long. 
+The **Atmosphere** of the class is really fun and it promotes learning + efficiency. From the outside, class is 3 hours long but it definitely doesnt feel as long.
 ​
 
 ##### Parting Words:
