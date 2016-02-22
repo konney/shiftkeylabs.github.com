@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Assignment
-tagline: "First Post"
+title: "First Post"
 author: Nazim Ali
 tags : [info, Team name and members]
 ---
