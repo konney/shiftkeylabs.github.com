@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Mobile Application
-tagline: "Shoopers"
+title: "Shoopers"
 author: Mohsin Khoja
 tags : [intro, About]
 ---

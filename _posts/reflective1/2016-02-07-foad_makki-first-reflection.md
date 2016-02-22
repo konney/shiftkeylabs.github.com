@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "First Post"
+title: "First Post"
 author: Foad Makki
 tags : [intro, beginner, tutorial]
 ---

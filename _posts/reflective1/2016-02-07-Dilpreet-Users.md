@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Users"
+title: "Users"
 author: Dilpreet Gill
 tags : [introduction, beginner]
 ---

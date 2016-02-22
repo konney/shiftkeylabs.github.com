@@ -1,4 +1,16 @@
 ---
+layout: page
+title: About
+---
+
+<p class="message">
+  Hey there! Use this as a template post for how to submit a reflective post.
+</p>
+
+Example Post:
+
+```
+---
 layout: post
 category : lessons
 title: "First Post"
@@ -36,6 +48,5 @@ example:
 - We are using github (a code repository hosting site)
 - We have a public project storing everything: [Github](https://github.com/shiftkeylabs/shiftkeylabs.github.com)
 - we are using something called `Jekyll` which "magically" turns that repository into a blog hosted [here](http://shiftkeylabs.github.io/)
+```
 
-
-- Patrick LaRoche

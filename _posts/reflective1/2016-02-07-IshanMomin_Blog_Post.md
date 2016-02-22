@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Learning MarkDown
-tagline: "First Post"
+title: "First Post"
 author: Ishan Momin
 tags : [Learning, Basic, Syntax]
 ---
@@ -9,7 +9,7 @@ tags : [Learning, Basic, Syntax]
 ## Personal Introduction:
 - Name: Ishan Momin [Facebook](https://www.facebook.com/ishanmomin9)
 - I am a Grad Student and enrolled in technology and innovation class
-- My Group is Grocery Shoppers 
+- My Group is Grocery Shoppers
 
 ### My First Post
 
