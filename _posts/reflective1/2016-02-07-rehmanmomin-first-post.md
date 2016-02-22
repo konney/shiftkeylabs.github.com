@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Assignment
-tagline: “POSTING FOR THE FIRST TIME"
-author: Rehman Momin	
+title: “POSTING FOR THE FIRST TIME"
+author: Rehman Momin
 tags : [Working, Ideas, Markdown]
 ---
 

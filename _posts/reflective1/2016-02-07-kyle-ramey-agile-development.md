@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Agile Development"
+title: "Agile Development"
 author: Kyle Ramey
 tags : [intro, agile]
 ---

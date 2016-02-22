@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Assignment
-tagline: "First Post"
+title: "First Post"
 author: Nazim Ali
 tags : [info, team name and members, class]
 ---
@@ -20,7 +20,7 @@ tags : [info, team name and members, class]
 - Ishan Momin
 - Sherish Khawaja
 - Rehman Momin
-- Mohsin Khoja 
+- Mohsin Khoja
 
 ### Reflective about Class
 - From staring, I am not understanding the core purpose of the class but after few class and activities, I learn a lot of stuff and will do my best to make idea and project successfully.

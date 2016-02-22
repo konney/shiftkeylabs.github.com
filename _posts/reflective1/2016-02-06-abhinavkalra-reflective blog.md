@@ -1,17 +1,9 @@
-
-
 ---
-
 layout: post
-
 category : Reflective blog
-
-tagline: "User Experience Design"
-
+title: "User Experience Design"
 author: Abhinav Kalra
-
 tags : [reflection,user experience,class activity]
-
 ---
 
 ## Creating an effective user experience
@@ -19,8 +11,8 @@ Understanding the end-user or consumer lies at the core of creating an effective
 
 A user experience design is thus concerned not only with the product or interface design, but rather with the overall experience of the user who will be interacting with it. The shape of the pencil- round as opposed to square or, the usage of proper signs to indicate which way a door will open are a few examples of good UX design.
 
-#### Don't make assumptions 
-Having a preconceived notion about what our product will be and who will be using it is a major pitfall that needs to be avoided at all cost. Once we go to the customer, see how they are performing a task and ask what drawbacks are present in their experience, we will often end up back at the drawing board refining our proposed solution. 
+#### Don't make assumptions
+Having a preconceived notion about what our product will be and who will be using it is a major pitfall that needs to be avoided at all cost. Once we go to the customer, see how they are performing a task and ask what drawbacks are present in their experience, we will often end up back at the drawing board refining our proposed solution.
 
 #### Now, test our assumptions
 
@@ -29,7 +21,7 @@ The process of gathering this information about our intended users can be broken
 - **Test the problem**: What problem our solution is purportedly solving and how the people are currently addressing this problem.
 - **Test the solution**: Have we offered a solution that the people actually need? Are they going to use it? Will it make their task easier?
 
-Through a series of interactive exercises within the class, we went through the tasks for creating an initial User-Problem-Solution statement and refining it further after a more thorough research. Oftentimes we may find that this process is iterative until we effectively refine and retest our solution. 
+Through a series of interactive exercises within the class, we went through the tasks for creating an initial User-Problem-Solution statement and refining it further after a more thorough research. Oftentimes we may find that this process is iterative until we effectively refine and retest our solution.
 
 **U**ser e**X**perience **D**esign is thus a set of flexible practices and approaches that can direct an organization towards creating a successful product for their audience and should be an integral part of the design process for any product or website.
 

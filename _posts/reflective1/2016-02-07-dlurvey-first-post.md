@@ -1,7 +1,7 @@
 ---
 layout: post
 category : blog post
-tagline: "First Post"
+title: "First Post"
 author: Daniel Lurvey
 tags : [sandbox, blog post, student, reflection]
 ---

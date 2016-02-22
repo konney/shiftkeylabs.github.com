@@ -11,10 +11,9 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+    <span class="post-author">{{post.author}}</span>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    {{ post.content | strip_html | strip_newlines | truncate: 125 }}
   </div>
   {% endfor %}
 </div>

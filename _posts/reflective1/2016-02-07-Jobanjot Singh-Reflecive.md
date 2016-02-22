@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Reflective BlogPost
-tagline: "First Post"
+title: "First Post"
 author: Jobanjot Singh
 tags : [Computer Science, Graduate, CSCI 6904]
 ---

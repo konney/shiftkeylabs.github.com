@@ -4,27 +4,49 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Use this as a template post for how to submit a reflective post.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Example Post:
 
-There are currently two themes built on Poole:
+```
+---
+layout: post
+category : lessons
+title: "First Post"
+author: Patrick LaRoche
+tags : [intro, beginner, tutorial]
+---
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Instructions of your posts:
+- We will be using the language markdown [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Do not be overly concerned with it, I will help you
+- Just copy this file each time, use the same header, modify to suit your needs (the stuff between and including `---`)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+### Naming of your blog post
 
-Some fun facts about the setup of this project include:
+First: note, please name your files:
+`year-month-day-author-name-of-post.md`
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+example:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+`2016-01-11-plaroche-first-post.md`
 
-Thanks for reading!
+
+### Due time for posts:
+- __Sunday at 11pm__ on slack channel `#assignments`
+
+
+
+### Incase you get lost or confused:
+- find me on slack and ask
+- check out [The person who invented Markdown](http://daringfireball.net/projects/markdown/)
+- Send up flairs
+
+### Where does this end up / how is this turning into a blog?
+- We are using github (a code repository hosting site)
+- We have a public project storing everything: [Github](https://github.com/shiftkeylabs/shiftkeylabs.github.com)
+- we are using something called `Jekyll` which "magically" turns that repository into a blog hosted [here](http://shiftkeylabs.github.io/)
+```
+

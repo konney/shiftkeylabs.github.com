@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "First Post"
+title: "First Post"
 author: Patrick LaRoche
 tags : [intro, beginner, tutorial]
 ---

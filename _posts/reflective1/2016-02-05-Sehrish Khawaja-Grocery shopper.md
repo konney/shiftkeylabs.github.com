@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "First Post"
+title: "First Post"
 author: Sehrish Khawaja
 tags : [intro, beginner, tutorial]
 ---
@@ -31,7 +31,7 @@ tags : [intro, beginner, tutorial]
 - I am enjoying learning because every class contains activity which keeps us active.
 - After attending this class i understand that while working in a team we learn more better then doing any task individually.
 - I also learn the steps of doing a project work.
-- In my previous projects i always use waterfall or spiral model but after this class i learn the proper steps and hope to learn more in future. 
+- In my previous projects i always use waterfall or spiral model but after this class i learn the proper steps and hope to learn more in future.
 - I hope that i will learn more steps in future classes and by following these steps i will create a project every time.
 
 
